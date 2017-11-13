@@ -1,4 +1,4 @@
-package com.telegraph.stub.facebookauth
+package com.telegraph.stub.training
 
 import com.github.tomakehurst.wiremock.client.WireMock._
 import uk.co.telegraph.qe.SmartStub
